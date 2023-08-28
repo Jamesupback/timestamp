@@ -1,3 +1,3 @@
 # Timestamp Microservice
 
-https://boilerplate-project-timestamp-1.jamessajan.repl.co
+https://boilerplate-project-urlshortener.jamessajan.repl.co
